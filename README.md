@@ -1,4 +1,4 @@
-# Bem vinda(o) ao Projeto-Estude_Python😊
+# Bem vinda(o) ao Data Science Studies😊
 
 
 # Projeto-Estude Python
@@ -33,5 +33,5 @@ O projeto foi criado para eu poder ter acesso rápido aos meus estudos quando es
 
 O repositório utilizou de cursos e pesquisas. Algumas referências estão listadas abaixo:
 
-* Alura:
-1. Formações: Data Science, Estatística com Python, Machine Learning, Machine Learning Avançada
+1. **Alura Formações**: Data Science, Estatística com Python, Machine Learning, Machine Learning Avançada
+2. Cursos DeepLearnin.AI: [Machine Learning In Production](https://www.deeplearning.ai/courses/machine-learning-in-production?_gl=1*1jm0wcm*_ga*NTk5MjUxNzA5LjE3OTEyMTI4OTc.*_ga_FR2MZ1VLMS*czE3OTEzOTg3MTgkbzEwJGcxJHQxNzkxMzk4ODU0JGo2MCRsMCRoMA..)
