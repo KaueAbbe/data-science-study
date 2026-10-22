@@ -1,0 +1,23 @@
+artifact_path: "file:c:/Users/kauea/OneDrive/\xC1rea de Trabalho/Nerd/Data Science/data-science-study/MLOPs/zoomcamp/mlruns/1/models/m-6ec4036e28b440aa9c86598456d6ab86/artifacts"
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.17.2
+model_id: m-6ec4036e28b440aa9c86598456d6ab86
+model_size_bytes: 9205
+model_uuid: m-6ec4036e28b440aa9c86598456d6ab86
+prompts: null
+run_id: 854bb916c9ae4aebb4953a4131edd10a
+utc_time_created: '2026-10-22 16:20:49.878080'
